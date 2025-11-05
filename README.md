@@ -36,4 +36,4 @@ Data for this project was obtained from the **IESO Open Data Portal**: [https://
 
 ## Author
 **Tania Tasmin**  
-GitHub: [https://github.com/t-tasmin/CleanTech-Canada](https://github.com/t-tasmin/CleanTech-Canada)
+GitHub: [https://github.com/t-tasmin/Ontario-Grid-Analysis](https://github.com/t-tasmin/Ontario-Grid-Analysis)
